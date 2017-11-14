@@ -19,6 +19,8 @@ db.Users.insert({"username":"admin","password":"123456"})//插入用户
 
 cd moodboard
 
+npm install
+
 npm run dev
 
 
@@ -26,6 +28,8 @@ npm run dev
 //启动api服务
 
 cd moodboardAPI
+
+npm install
 
 node index.js
  
