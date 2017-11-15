@@ -1,5 +1,6 @@
 # Store-Backstage
-vue vue-router vuex mongodb express node  vue-cli
+用vue vue-router vuex mongodb express node  vue-cli搭建的一个商城类网站的简易后台，下载后再改改就可以直接使用了！
+
 //详细教程
 www.hongj.top
 安装mongodb
